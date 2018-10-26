@@ -1,2 +1,2 @@
 # cologger
-color logger using logger
+color logger using [logger](https://github.com/finkf/logger)
